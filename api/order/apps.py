@@ -5,7 +5,3 @@ class OrderConfig(AppConfig):
     name = 'order'
 
 
-
-
-print("test")
-
